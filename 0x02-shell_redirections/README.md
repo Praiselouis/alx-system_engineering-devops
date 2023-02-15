@@ -1,1 +1,1 @@
-shell init_variations
+shell init readme
