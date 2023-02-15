@@ -1,1 +1,1 @@
-shell init_variables_extensions
+shell init
