@@ -1,1 +1,1 @@
-shell redirection readme
+shell init_variables_extensions
