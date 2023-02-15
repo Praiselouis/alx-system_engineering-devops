@@ -1,1 +1,1 @@
-shell init readme
+shell redirection readme
